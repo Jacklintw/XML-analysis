@@ -20,3 +20,14 @@ F:\!!課業相關\!!!!!四上 軟體工程\XmlLoader\XmlLoader\obj\Debug\netcore
 F:\!!課業相關\!!!!!四上 軟體工程\XmlLoader\XmlLoader\obj\Debug\netcoreapp2.1\XmlLoader.AssemblyInfo.cs
 F:\!!課業相關\!!!!!四上 軟體工程\XmlLoader\XmlLoader\obj\Debug\netcoreapp2.1\XmlLoader.dll
 F:\!!課業相關\!!!!!四上 軟體工程\XmlLoader\XmlLoader\obj\Debug\netcoreapp2.1\XmlLoader.pdb
+F:\!!課業相關\!!!!!四上 軟體工程\!!Git\XML-analysis\XmlLoader\XmlLoader\obj\Debug\netcoreapp2.1\XmlLoader.csprojAssemblyReference.cache
+F:\!!課業相關\!!!!!四上 軟體工程\!!Git\XML-analysis\XmlLoader\XmlLoader\obj\Debug\netcoreapp2.1\XmlLoader.csproj.CoreCompileInputs.cache
+F:\!!課業相關\!!!!!四上 軟體工程\!!Git\XML-analysis\XmlLoader\XmlLoader\obj\Debug\netcoreapp2.1\XmlLoader.AssemblyInfoInputs.cache
+F:\!!課業相關\!!!!!四上 軟體工程\!!Git\XML-analysis\XmlLoader\XmlLoader\obj\Debug\netcoreapp2.1\XmlLoader.AssemblyInfo.cs
+F:\!!課業相關\!!!!!四上 軟體工程\!!Git\XML-analysis\XmlLoader\XmlLoader\obj\Debug\netcoreapp2.1\XmlLoader.dll
+F:\!!課業相關\!!!!!四上 軟體工程\!!Git\XML-analysis\XmlLoader\XmlLoader\obj\Debug\netcoreapp2.1\XmlLoader.pdb
+F:\!!課業相關\!!!!!四上 軟體工程\!!Git\XML-analysis\XmlLoader\XmlLoader\bin\Debug\netcoreapp2.1\XmlLoader.deps.json
+F:\!!課業相關\!!!!!四上 軟體工程\!!Git\XML-analysis\XmlLoader\XmlLoader\bin\Debug\netcoreapp2.1\XmlLoader.runtimeconfig.json
+F:\!!課業相關\!!!!!四上 軟體工程\!!Git\XML-analysis\XmlLoader\XmlLoader\bin\Debug\netcoreapp2.1\XmlLoader.runtimeconfig.dev.json
+F:\!!課業相關\!!!!!四上 軟體工程\!!Git\XML-analysis\XmlLoader\XmlLoader\bin\Debug\netcoreapp2.1\XmlLoader.dll
+F:\!!課業相關\!!!!!四上 軟體工程\!!Git\XML-analysis\XmlLoader\XmlLoader\bin\Debug\netcoreapp2.1\XmlLoader.pdb

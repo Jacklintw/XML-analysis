@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\!!課業相關\\!!!!!四上 軟體工程\\XmlLoader\\XmlLoader\\XmlLoader.csproj",
+      "projectUniqueName": "F:\\!!課業相關\\!!!!!四上 軟體工程\\!!Git\\XML-analysis\\XmlLoader\\XmlLoader\\XmlLoader.csproj",
       "projectName": "XmlLoader",
-      "projectPath": "F:\\!!課業相關\\!!!!!四上 軟體工程\\XmlLoader\\XmlLoader\\XmlLoader.csproj",
+      "projectPath": "F:\\!!課業相關\\!!!!!四上 軟體工程\\!!Git\\XML-analysis\\XmlLoader\\XmlLoader\\XmlLoader.csproj",
       "packagesPath": "C:\\Users\\Jack\\.nuget\\packages\\",
-      "outputPath": "F:\\!!課業相關\\!!!!!四上 軟體工程\\XmlLoader\\XmlLoader\\obj\\",
+      "outputPath": "F:\\!!課業相關\\!!!!!四上 軟體工程\\!!Git\\XML-analysis\\XmlLoader\\XmlLoader\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
